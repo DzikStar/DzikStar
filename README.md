@@ -9,6 +9,3 @@
 
 ## 🌱 Actively Learning<br>
 [![Learning](https://skillicons.dev/icons?i=js,ts,git,githubactions)](https://skillicons.dev)
-
-## 🔎 Planning/Exploring<br>
-[![Planning](https://skillicons.dev/icons?i=astro,cs,bash,npm,deno,docker,regex,svg,androidstudio,arch,linux,discordjs)](https://skillicons.dev)
