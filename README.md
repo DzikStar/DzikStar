@@ -1,5 +1,5 @@
 ## 👾 Languages<br>
-[![Languages](https://skillicons.dev/icons?i=js,py,html,css)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=ts,js,py,html,css)](https://skillicons.dev)
 
 ## ⚙️ Technologies<br>
 [![Learning](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
@@ -8,4 +8,4 @@
 [![Tools](https://skillicons.dev/icons?i=vscode,github,ps,discord)](https://skillicons.dev)
 
 ## 🌱 Actively Learning<br>
-[![Learning](https://skillicons.dev/icons?i=ts,git,githubactions)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=git,githubactions)](https://skillicons.dev)
